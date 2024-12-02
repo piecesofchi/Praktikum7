@@ -20,9 +20,9 @@ Flowchart:
 1. Program dimulai.
 2. Tampilkan menu utama dengan 5 opsi.
 3. Pengguna memilih salah satu opsi:
-Tambah Data: Meminta nama dan nilai, lalu menambahkannya ke daftar.
-Tampilkan Data: Menampilkan semua data mahasiswa.
-Hapus Data: Meminta nama mahasiswa, lalu menghapus data berdasarkan nama.
-Ubah Data: Meminta nama mahasiswa, lalu mengubah nilai mahasiswa jika ditemukan.
-Keluar: Program berhenti.
+-Tambah Data: Meminta nama dan nilai, lalu menambahkannya ke daftar.
+-Tampilkan Data: Menampilkan semua data mahasiswa.
+-Hapus Data: Meminta nama mahasiswa, lalu menghapus data berdasarkan nama.
+-Ubah Data: Meminta nama mahasiswa, lalu mengubah nilai mahasiswa jika ditemukan.
+-Keluar: Program berhenti.
 ![Screenshot (65)](https://github.com/user-attachments/assets/032106e3-d105-49cc-8fbb-cc4387c492d1)
